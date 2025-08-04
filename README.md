@@ -1,9 +1,9 @@
-# PropostaContratacao
-aplicaÃ§Ã£o .net em ambiente docker com sqs, clean arch, hexagonal simples para criar e contratar uma proposta
+
+OBSERVAÇÃO: Meu filho deu uma caídinha aqui do estado de saúde e não deu tempo de implementar testes...
 
 rodar docker compose up --build 
 ao subir http://localhost:5000/swagger/index.html
-para acessar o swagger 
+para acessar o swagger da api de propostas
 
 contratacao api na 5002
 e proposta api na 5000
