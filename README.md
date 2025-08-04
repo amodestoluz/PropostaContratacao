@@ -1,5 +1,4 @@
 
-OBSERVAÇÃO: Meu filho deu uma caídinha aqui do estado de saúde e não deu tempo de implementar testes...
 
 rodar docker compose up --build 
 ao subir http://localhost:5000/swagger/index.html
