@@ -62,7 +62,7 @@ node_modules/
 *.ps1
 *.psd1
 *.psm1
-# *.sh
+*.sh
 *.bat
 Thumbs.db
 Desktop.ini
